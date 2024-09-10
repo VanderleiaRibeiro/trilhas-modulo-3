@@ -4,7 +4,6 @@ public class Main {
         Aluno aluno2 = new Aluno("Laura", 1, 10, 52);
 
         aluno1.exibirInformacoes();
-//        System.out.println();
         aluno2.exibirInformacoes();
     }
 }
