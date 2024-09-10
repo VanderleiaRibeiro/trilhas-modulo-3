@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="trilha3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/trilha3/trilha3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/trilha3/trilha3.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
